@@ -1,6 +1,6 @@
 # Agent Ticket privacy policy
 
-_Last updated: 13 October 2026. Publisher: Clearlane, contact: joachim.brindeau@klarc.com._
+_Last updated: 13 October 2026. Publisher: MYPROOF, contact: joachim.brindeau@klarc.com._
 
 Agent Ticket is a browser extension and a companion background program ("runtime") that runs on your own
 computer. It lets you capture the page you are looking at, annotate it, and hand it to a coding agent that you
@@ -28,8 +28,8 @@ When you click the toolbar button or press the shortcut, the extension handles:
   under its own terms and privacy policy with its provider, and writes the ticket wherever your project files
   tickets (for example GitHub, Linear or a Markdown file).
 
-Clearlane does not operate any server for Agent Ticket and receives none of this data. There is no account,
-analytics, advertising, tracking or telemetry. Data is never sold or shared with third parties by Clearlane.
+MYPROOF does not operate any server for Agent Ticket and receives none of this data. There is no account,
+analytics, advertising, tracking or telemetry. Data is never sold or shared with third parties by MYPROOF.
 
 The only other network request is when you click **Download for macOS** or **Download update**, which opens the
 installer from the public release page on GitHub.
