@@ -1,6 +1,6 @@
 # Agent Ticket privacy policy
 
-_Last updated: 13 October 2026. Publisher: MYPROOF, contact: joachim.brindeau@klarc.com._
+_Last updated: 13 October 2026. Publisher: MYPROOF, contact: contact@my-proof.com._
 
 Agent Ticket is a browser extension and a companion background program ("runtime") that runs on your own
 computer. It lets you capture the page you are looking at, annotate it, and hand it to a coding agent that you
@@ -52,4 +52,4 @@ removes the program; your project configuration and run history stay in your hom
 
 ## Contact
 
-Questions or requests: joachim.brindeau@klarc.com.
+Questions or requests: contact@my-proof.com.

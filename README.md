@@ -26,6 +26,6 @@ Nothing leaves your machine except to the coding agent you chose. See [PRIVACY.m
 
 ## Support
 
-Open an issue in this repository or write to joachim.brindeau@klarc.com.
+Open an issue in this repository or write to contact@my-proof.com.
 
 _This repository hosts releases and documentation. Source code is maintained privately by MYPROOF._
